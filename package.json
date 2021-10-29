@@ -1,0 +1,17 @@
+{
+  "name": "themejs",
+  "version": "1.0.0",
+  "description": "Creating a Theme",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "keywords": [
+    "theme"
+  ],
+  "author": "Gallactica",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
